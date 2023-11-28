@@ -1,49 +1,49 @@
-body {
-    background: gray;
+body{
+    background-color: gray;
+    background: url(../images/cat3.jpg);
 }
 
-.wrapper {
+.wrapper{
     max-width: 600px;
     margin: 0 auto;
 }
 
-
-.first {
-    color: red;
+.first{
+    color: coral;
 }
 
 header,
 footer
 {
     text-align: center;
-    background: orange;
+    background-color: darkorange;
     padding: 10px;
 }
 
-main {
-    background: aqua;
+main{
+    background-color: rgb(215, 238, 250);
     padding: 10px;
 }
 
-nav {
-    background: burlywood;
+nav{
+    background-color: chocolate;
     padding: 10px;
 }
 
-a {
+a{
     text-decoration: none;
     color: black;
-
 }
 
-nav a {
-    background: blue;
+nav a{
+    background-color: blanchedalmond;
     padding: 2px;
-    color: white;
+    color: black;
     border-radius: 5px;
     transition: 1s;
 }
 
-nav a:hover {
-    background: red;
+nav a:hover{
+        background: rgb(0, 162, 255)
 }
+
